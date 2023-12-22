@@ -1,0 +1,62 @@
+{
+  "0": {
+    "name": "Strawberry Leaf Scorch",
+    "preventionSteps": [
+      "Plant disease-resistant strawberry varieties.",
+      "Space plants properly for good air circulation.",
+      "Avoid overhead watering to reduce humidity.",
+      "Apply fungicides as a preventive measure.",
+      "Remove and destroy infected leaves."
+    ]
+  },
+  "1": {
+    "name": "Tomato Leaf Mold",
+    "preventionSteps": [
+      "Provide good air circulation between plants.",
+      "Water at the base to keep foliage dry.",
+      "Use disease-resistant tomato varieties.",
+      "Apply fungicides preventively.",
+      "Rotate crops to reduce disease pressure."
+    ]
+  },
+  "2": {
+    "name": "Tomato Mosaic Virus",
+    "preventionSteps": [
+      "Plant disease-resistant tomato varieties.",
+      "Control aphids, which can spread the virus.",
+      "Avoid smoking near tomato plants.",
+      "Wash hands before handling plants.",
+      "Remove and destroy infected plants."
+    ]
+  },
+  "3": {
+    "name": "Corn Common Rust",
+    "preventionSteps": [
+      "Plant resistant corn varieties.",
+      "Space plants for good air circulation.",
+      "Apply fungicides preventively.",
+      "Remove and destroy infected leaves.",
+      "Rotate crops to reduce disease pressure."
+    ]
+  },
+  "4": {
+    "name": "Potato Early Blight",
+    "preventionSteps": [
+      "Plant disease-resistant potato varieties.",
+      "Space plants for good air circulation.",
+      "Apply fungicides preventively.",
+      "Mulch around plants to reduce splashing.",
+      "Water at the base to keep foliage dry."
+    ]
+  },
+  "5": {
+    "name": "Corn Gray Leaf Spot",
+    "preventionSteps": [
+      "Plant disease-resistant corn varieties.",
+      "Space plants properly for air circulation.",
+      "Rotate crops to reduce disease pressure.",
+      "Apply fungicides preventively.",
+      "Remove and destroy infected leaves."
+    ]
+  }
+}
